@@ -18,7 +18,7 @@ The project implements a multi-faceted approach:
 - **Sentiment Analysis**: Utilizing tools like VADER and TextBlob, the project analyzes sentiments in the tweets to categorize them into positive, negative, and neutral sentiments.
 - **Emotion Analysis**: Using NRCLex, the project identifies dominant emotions in the discussions.
 - **Topic Modeling**: LDA is used to uncover prevailing themes and topics in the conversations.
-- **Stratified Sampling**: Systematic sampling methods are used to ensure diverse and representative data subsets for analysis.
+- **Systematic Sampling**: Systematic sampling methods are used to ensure diverse and representative data subsets for analysis.
 
 ## Results and Insights
 The project provides insights into:
