@@ -40,9 +40,9 @@ The project provides insights into:
 "Uncovering Bias" offers an empirical perspective into how social media sentiment reflects and reacts to the complex dynamics of the Palestine-Israel conflict. This project contributes to understanding how digital platforms can mirror real-world conflicts and biases.
 
 ## Authors
+- Sachnaz Desta Oktarina, S.Stat., M.Agr., Ph.D. - *Supervisor*
 - Muhammad Dzakwan Alifi - *Team Leader*
 - Muhammad Rizqa Salas - *Team Member*
 - Biki Nurul Afida - *Team Member*
 - Indryani Sutisna - *Team Member*
 - Naila Dzil Izzati - *Team Member*
-- Sachnaz Desta Oktarina, S.Stat., M.Agr., Ph.D. - *Supervisor*
