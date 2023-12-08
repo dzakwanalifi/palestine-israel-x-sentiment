@@ -5,7 +5,7 @@
 ![Project Infographics](https://github.com/dzakwanalifi/palestine-israel-x-sentiment/blob/681494846cc31c252b2ccae09b32b5c4bee1ab08/Palestine%20Israel%20Sentiment%20Analysis%20Infographics.png)
 
 ## Project Overview
-"Uncovering Bias" is a comprehensive sentiment analysis project focusing on the opinions and biases of US netizens regarding the Palestine-Israel conflict, particularly on social media platform "Platform X." This project aims to objectively analyze sentiments, identify prevalent emotions, and uncover potential biases in public opinion.
+"#UncoveringBias" is a comprehensive sentiment analysis project focusing on the opinions and biases of US netizens regarding the Palestine-Israel conflict, particularly on social media platform "Platform X." This project aims to objectively analyze sentiments, identify prevalent emotions, and uncover potential biases in public opinion.
 
 ## Motivation
 The Palestine-Israel conflict often generates global attention and diverse opinions. Social media platforms are crucial outlets for such discussions, but they also can reflect and perpetuate biases. This project investigates whether these platforms exhibit any biases in user sentiments and discussions about this conflict.
@@ -24,7 +24,6 @@ The project implements a multi-faceted approach:
 The project provides insights into:
 - The shift in sentiment before and after specific events related to the conflict.
 - The predominance of specific emotions like fear or anger in discussions.
-- The influence of media and external events on public sentiment.
 - Identification of major themes and topics discussed in relation to the conflict.
 
 ## Tools and Libraries Used
@@ -37,7 +36,7 @@ The project provides insights into:
 - `README.md`: Project overview and repository guide.
 
 ## Conclusion
-"Uncovering Bias" offers an empirical perspective into how social media sentiment reflects and reacts to the complex dynamics of the Palestine-Israel conflict. This project contributes to understanding how digital platforms can mirror real-world conflicts and biases.
+"#UncoveringBias" offers an empirical perspective into how social media sentiment reflects and reacts to the complex dynamics of the Palestine-Israel conflict. This project contributes to understanding how digital platforms can mirror real-world conflicts and biases.
 
 ## Authors
 - Sachnaz Desta Oktarina, S.Stat., M.Agr., Ph.D. - *Supervisor*
