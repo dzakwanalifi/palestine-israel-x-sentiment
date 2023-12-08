@@ -2,7 +2,7 @@
 
 ## Project Infographics
 
-![Project Infographics](https://github.com/dzakwanalifi/palestine-israel-x-sentiment/blob/681494846cc31c252b2ccae09b32b5c4bee1ab08/Palestine%20Israel%20Sentiment%20Analysis%20Infographics.png)
+![[Project Infographics](https://github.com/dzakwanalifi/palestine-israel-x-sentiment/blob/3ad1dd2aacf4343522cdee6a4362adba21de98f1/assets/Palestine%20Israel%20Sentiment%20Analysis%20Infographics.png)
 
 ## Project Overview
 "#UncoveringBias" is a comprehensive sentiment analysis project focusing on the opinions and biases of US netizens regarding the Palestine-Israel conflict, particularly on social media platform "Platform X." This project aims to objectively analyze sentiments, identify prevalent emotions, and uncover potential biases in public opinion.
